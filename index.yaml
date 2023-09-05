@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  weave-gitops:
+  - apiVersion: v2
+    appVersion: v0.31.2
+    created: "2023-09-05T15:31:51.658662+03:00"
+    description: Weave Gitops is a set of tools and services to aid your interactions
+      with Flux
+    digest: 54d3a6b4886a2ad5b08d59234ecd4d6f455f0699a9b2d095ee8bfaa5acc982bb
+    name: weave-gitops
+    type: application
+    urls:
+    - https://alinkbm.github.io/your-helm-repo/weave-gitops-4.0.29.tgz
+    version: 4.0.29
+generated: "2023-09-05T15:31:51.657883+03:00"
