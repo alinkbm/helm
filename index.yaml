@@ -10,6 +10,6 @@ entries:
     name: weave-gitops
     type: application
     urls:
-    - https://alinkbm.github.io/your-helm-repo/weave-gitops-4.0.29.tgz
+    - https://alinkbm.github.io/helm/weave-gitops-4.0.29.tgz
     version: 4.0.29
 generated: "2023-09-05T15:31:51.657883+03:00"
